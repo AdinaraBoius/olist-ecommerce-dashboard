@@ -4,6 +4,7 @@
 Dashboard interaktif dan analisis data transaksi e-commerce Olist Brasil periode 2016–2018, mencakup analisis tren revenue, performa pengiriman, kepuasan pelanggan, dan segmentasi pelanggan menggunakan RFM Analysis.
 
 ## Struktur Direktori
+```
 submission
 ├── dashboard
 │   ├── dashboard.py
@@ -19,6 +20,7 @@ submission
 ├── README.md
 ├── requirements.txt
 └── url.txt
+```
 
 ## Setup Environment
 
